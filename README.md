@@ -1,7 +1,10 @@
-<h1 data-importer="text" align="center">Yow </h1>
+<h1 data-importer="text" align="center">YOW </h1>
 
 
-<img width="480" height="270" alt="videoframe_554" src="https://github.com/user-attachments/assets/3e06438f-988d-4011-842f-999be9ca4b84" />
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://github.com/user-attachments/assets/3e06438f-988d-4011-842f-999be9ca4b84"  />
+</div>
 
 
 
