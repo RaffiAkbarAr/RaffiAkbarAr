@@ -1,4 +1,4 @@
-<img width="480" height="270" allign="center" alt="videoframe_554" src="https://github.com/user-attachments/assets/f30bd6e1-b18c-44d4-9758-193b06095c36" />
+                                                <img width="480" height="270" alt="videoframe_554" src="https://github.com/user-attachments/assets/f30bd6e1-b18c-44d4-9758-193b06095c36" />
 <h1 data-importer="text" align="left">Yow </h1>
 ###
 
