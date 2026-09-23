@@ -1,11 +1,23 @@
 <img width="480" height="270" alt="videoframe_554" src="https://github.com/user-attachments/assets/f30bd6e1-b18c-44d4-9758-193b06095c36" />
+<h1 data-importer="text" align="left">Yow </h1>
+<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<h2 data-importer="text" align="left">About me</h2>
+###
 
 ###
 
 
 
-###
 
+
+
+
+
+
+
+
+###
+<h2 data-importer="text" align="left">I code with</h2>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
