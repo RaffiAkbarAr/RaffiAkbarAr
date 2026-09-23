@@ -1,5 +1,6 @@
-                                                <img width="480" height="270" alt="videoframe_554" src="https://github.com/user-attachments/assets/f30bd6e1-b18c-44d4-9758-193b06095c36" />
-<h1 data-importer="text" align="left">Yow </h1>
+
+<img width="480" height="270" alt="videoframe_554" src="https://github.com/user-attachments/assets/3e06438f-988d-4011-842f-999be9ca4b84" />
+<h1 data-importer="text" align="center">Yow </h1>
 ###
 
 ###
