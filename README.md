@@ -1,9 +1,7 @@
+<h1 data-importer="text" align="center">Yow </h1>
+
 
 <img width="480" height="270" alt="videoframe_554" src="https://github.com/user-attachments/assets/3e06438f-988d-4011-842f-999be9ca4b84" />
-<h1 data-importer="text" align="center">Yow </h1>
-###
-
-###
 
 
 
@@ -15,7 +13,18 @@
 
 
 
-###
+
+
+
+
+
+
+
+
+
+
+
+
 <h2 data-importer="text" align="left">I code with</h2>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -35,7 +44,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+
+
+
 
 
 <picture data-importer="pacman">
