@@ -2,7 +2,7 @@
 <div data-importer="image" align="center">
 <img width="480" height="268" alt="giphy" src="https://github.com/user-attachments/assets/c5893751-756a-4298-af30-5e2b24da28b1" />
 </div>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-<h2 data-importer="text" align="left">Language</h2>
+<h2 data-importer="text" align="left">my Language</h2>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
