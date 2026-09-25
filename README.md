@@ -25,7 +25,7 @@
 
 
 
-<h2 data-importer="text" align="left">my Language</h2>
+<h2 data-importer="text" align="Center">MyLanguage</h2>
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
